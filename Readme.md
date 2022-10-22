@@ -3,3 +3,8 @@
 <p><em>Software student at <a href="https://gec.edu.in/">GEC
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
+<h1>
+A SIMPLE API FOR BOTS 
+
+
+OPEN SOURCE FREE TO USE
